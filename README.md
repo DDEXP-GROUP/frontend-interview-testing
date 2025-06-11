@@ -67,5 +67,3 @@ src/app/page.tsx
 | Icon  | 24 × 24   |
 
 ---
-
-Let me know if you need a `README.md` version or printable format.
