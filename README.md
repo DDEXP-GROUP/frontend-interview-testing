@@ -28,7 +28,7 @@ src/app/page.tsx
 
 ## ⏱️ Task 3: Time Limit & Code Explanation
 
-* ⏳ You have **30 minutes** to complete the task
+* ⏳ You have **20 minutes** to complete the task
 * 🧠 After completing it, spend **5 minutes** explaining your implementation and decision-making process
 
 ---
